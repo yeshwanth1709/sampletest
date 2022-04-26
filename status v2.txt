@@ -1,1 +1,2 @@
 check app status feature
+new bug by yeshu
